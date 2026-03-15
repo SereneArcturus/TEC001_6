@@ -4,7 +4,6 @@ def track_names():
         name = input("Type a name here: ")
         if name == "":
             break
-        
         if name in names:
             print("This name is exists already, type new name.")
         else:
