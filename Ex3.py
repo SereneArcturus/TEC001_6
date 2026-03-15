@@ -13,5 +13,3 @@ def track_names():
     for n in names:
         print(n)
 track_names()
-
-a

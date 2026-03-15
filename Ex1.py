@@ -12,5 +12,3 @@ numbers.sort(reverse=True)
 print("These are 5 greatest numbers from your list:")
 for i in numbers[:5]:  
     print(i)
-
-    a

@@ -14,5 +14,3 @@ def word_frequency(text):
     print("Proportion of 5 most common words:", sum_top_5, "/", total_words, "=", round(proportion, 2), "%")
 text_input = input("Type your text you want here to count and analyze: ")
 word_frequency(text_input)
-
-a

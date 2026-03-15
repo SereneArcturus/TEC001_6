@@ -6,5 +6,3 @@ remove_odd_numbers_list = remove_odd_numbers(original_list)
 
 print("This is your original list:", original_list)
 print("This is your original list, but removed odd numbers:", remove_odd_numbers_list)
-
-a
